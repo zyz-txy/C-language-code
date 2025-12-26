@@ -1,5 +1,3 @@
-# C-language-code
-C language code practice
 # 📚 C Language Code Repository  
 **—— 我的C语言学习与实践仓库**  
 
